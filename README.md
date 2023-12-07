@@ -1,6 +1,6 @@
 # Github de Cleb
 
-Estudo programação desde 2018/2019 , quando comecei a me interessar por desenvolvimento de jogos e conheci C# , python, java, etc... e dai veio o meu amor pela programação.  &nbsp;
+Estudo programação desde 2018/2019 , quando comecei a me interessar por desenvolvimento de jogos e conheci C# , python, java, etc... e dai veio o meu amor pela programação. 
 
 Atualmente estou cursando o 1º semestre de Engenharia de software pela UniFatecie.
 
