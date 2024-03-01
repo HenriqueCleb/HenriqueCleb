@@ -8,7 +8,7 @@ Back-end>>>>>>
 
 ## Linguagens que tenho experiencia
 
--Python(+4 anos)
+-Python(+5 anos)
 
 -C#(2 anos)
 
