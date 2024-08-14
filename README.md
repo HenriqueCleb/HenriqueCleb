@@ -2,9 +2,8 @@
 
 Estudo programação desde 2018/2019 , quando comecei a me interessar por desenvolvimento de jogos e conheci C# , python, java, etc... 
 
-Atualmente estou cursando o 2º semestre de Engenharia de software pela UniFatecie.
+Atualmente estou cursando o 2º semestre de Engenharia de software pela UniFatecie e focando na área de cybersec 
 
-Back-end>>>>>>  
 
 ## Linguagens que tenho experiencia
 
@@ -12,11 +11,29 @@ Back-end>>>>>>
 
 -C#(2 anos)
 
--Js(Só sei o basico, nunca foi do meu interesse(2 anos))
-
 -java(1 ano)
 
--html e css(1 ano(só usei isso uma vez)
+## Softwares que utilizo
 
-Valeu por ler.
+-Kali Linux
+
+-Parrot Os
+
+-VsCode
+
+-Intelij Idea
+
+-Maltego
+
+## Hard skills
+
+-Analise de vulnerabilidades 
+
+-Mapeamento de redes
+
+-Analise de Malware
+
+-POO
+
+
 
